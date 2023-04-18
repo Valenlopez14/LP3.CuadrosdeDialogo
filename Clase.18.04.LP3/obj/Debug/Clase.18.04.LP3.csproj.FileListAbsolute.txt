@@ -1,0 +1,10 @@
+D:\Escritorio\Clase.18.04.LP3\bin\Debug\Clase.18.04.LP3.exe.config
+D:\Escritorio\Clase.18.04.LP3\bin\Debug\Clase.18.04.LP3.exe
+D:\Escritorio\Clase.18.04.LP3\bin\Debug\Clase.18.04.LP3.pdb
+D:\Escritorio\Clase.18.04.LP3\obj\Debug\Clase.18.04.LP3.csproj.AssemblyReference.cache
+D:\Escritorio\Clase.18.04.LP3\obj\Debug\Clase._18._04.LP3.Form1.resources
+D:\Escritorio\Clase.18.04.LP3\obj\Debug\Clase._18._04.LP3.Properties.Resources.resources
+D:\Escritorio\Clase.18.04.LP3\obj\Debug\Clase.18.04.LP3.csproj.GenerateResource.cache
+D:\Escritorio\Clase.18.04.LP3\obj\Debug\Clase.18.04.LP3.csproj.CoreCompileInputs.cache
+D:\Escritorio\Clase.18.04.LP3\obj\Debug\Clase.18.04.LP3.exe
+D:\Escritorio\Clase.18.04.LP3\obj\Debug\Clase.18.04.LP3.pdb
